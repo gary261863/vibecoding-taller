@@ -1,0 +1,6 @@
+El proyecto que yo quiero crear es un sistema de calificaciones para un curso online que estoy 
+dictando
+
+tengo varios grupos, con distintos horarios y distintos avances de temas
+entonces quisiera un sistema para poder visualizar todo eso de manera rapida, de un solo vistazo
+ 
