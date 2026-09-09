@@ -1,0 +1,1 @@
+Quiero crear una aplicacion movil para la gestion de un colegio que tenga las funcionalidades siguientes:
