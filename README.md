@@ -1,5 +1,5 @@
 # 🚀 Taller Práctico: Vibecoding - Ejercicios y Prompts
-
+seraMiodificable
 ![Taller Práctico: Vibecoding](https://scontent.flpb1-2.fna.fbcdn.net/v/t39.99422-6/791335183_2512979192543991_8810715668548207309_n.png?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QK-PNt0KHqUQ7kNvwEXCvj-&_nc_oc=AdqYeukA4eNZkVk8C9yLutEEvvqezzDnMJOE9hWR3m8cByy5dR4wwwQnKpr1QBsJa8MkM0HzeoBU24evO8HN09p7&_nc_zt=14&_nc_ht=scontent.flpb1-2.fna&_nc_gid=OloUUokLArTUGtZZrkkoYQ&_nc_ss=7b2a8&oh=00_AQIwC_tUU_-cnQ630S7JXnLwSqDa_topuibPYCn55Bx1Kg&oe=6AA5DFAC)
 
 ## ¡Bienvenidos al repositorio oficial del taller! Aquí encontrarás los materiales de apoyo y el espacio para subir tu idea de proyecto.
