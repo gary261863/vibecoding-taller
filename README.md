@@ -17,11 +17,20 @@
 
 ### 1. Clonar el repositorio
 
-Abre tu terminal y ejecuta:
+Abre tu terminal de comandos (cmd, powershell, etc.)
+
+Verificamos que nos encontremos en el directorio donde queremos clonar con:
 
 ```bash
-git clone [https://github.com/TU_USUARIO/vibecoding-taller.git](https://github.com/TU_USUARIO/vibecoding-taller.git)
-cd vibecoding-taller
+cd [direccion_directorio]
+```
+
+ejecuta:
+
+```bash
+git clone [URL_repositorio]
+cd [nombre_repositorio_clonado]
+code .
 ```
 
 ### 2. Crear una nueva rama con tu nombre
