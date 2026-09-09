@@ -1,0 +1,28 @@
+El proyecto que quiero crear es un sistema digital para el control, registro y seguimiento de 
+las Pruebas de Integridad de Pilotes (PIT).
+
+El sistema estará orientado a proyectos de construcción de 
+carreteras y permitirá registrar y consultar información de 
+los pilotes, como viaducto, número de pilote, ubicación, fecha 
+de vaciado, fecha de ejecución de la prueba PIT, resultados, observaciones y estado del ensayo.
+
+La plataforma tendrá acceso en tiempo real para la Supervisión y
+ la Constructora, permitiendo que ambas partes trabajen con una 
+ misma información actualizada. La Constructora podrá registrar 
+ y actualizar la información de los pilotes y ensayos realizados, 
+ mientras que la Supervisión podrá consultar, revisar y realizar el seguimiento de los registros.
+
+El sistema permitirá identificar automáticamente los pilotes que 
+tienen fecha de vaciado pero todavía no cuentan con una prueba PIT, 
+así como los pilotes que aún no tienen registrada su fecha de vaciado.
+ De esta manera se podrá realizar un seguimiento de los ensayos pendientes
+  y facilitar la programación de las pruebas.
+
+También se busca contar con un panel de control que permita visualizar 
+de manera rápida el estado general de los pilotes, diferenciando entre 
+ensayos realizados, pendientes, resultados registrados y registros que requieren revisión.
+
+El objetivo principal es mejorar el control tecnológico de las Pruebas de
+ Integridad de Pilotes, facilitar la coordinación entre Supervisión y Constructora, 
+ reducir errores de registro y disponer de información actualizada en 
+ tiempo real para la toma de decisiones.
