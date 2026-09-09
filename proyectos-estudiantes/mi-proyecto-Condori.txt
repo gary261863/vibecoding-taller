@@ -1,0 +1,2 @@
+Quiero crear un sistema web que muestre mi catalogo de empresa
+y que muestre tambien mis redes sociales
