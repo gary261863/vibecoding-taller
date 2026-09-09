@@ -41,6 +41,8 @@ git checkout -b mi-proyecto-nombre
 
 ### 3. Añadir tu proyecto
 
+Crea un archivo con tu propuesta dentro de la carpeta proyectos-estudiantes/ (ej. mi-proyecto-tu-nombre.txt) y luego ejecuta:
+
 ```bash
 git add .
 git commit -m "Añadir propuesta de proyecto de [Tu Nombre]"
