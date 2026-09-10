@@ -1,0 +1,1 @@
+El proyecto que yo quiero crear es una aplicación que convierta el seguimiento de un semestre universitario en una experiencia similar a un videojuego. Quisiera registrar mis materias, tareas, exámenes y proyectos, obtener puntos por completar actividades y visualizar mi progreso, nivel y objetivos durante el semestre
