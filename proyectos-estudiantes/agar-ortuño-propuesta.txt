@@ -1,0 +1,11 @@
+ISHABELLA es una plataforma web de belleza consciente que permite a las clientas descubrir servicios y profesionales, consultar disponibilidad, reservar y gestionar sus experiencias de belleza.
+
+El sistema contará con:
+
+Panel de clientas: servicios, profesionales, reservas, historial y perfil.
+Panel de profesionales: agenda, reservas, servicios, portafolio e ingresos.
+Panel administrativo ISHABELLA: gestión de clientas, profesionales, servicios, reservas y métricas.
+
+El diseño debe ser minimalista, sofisticado, cálido y editorial, alineado a la identidad visual de ISHABELLA y al concepto “Te ves con más claridad.”
+
+El sistema debe construirse con una arquitectura escalable, preparada para evolucionar posteriormente hacia un marketplace y ecosistema de belleza.
